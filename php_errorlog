@@ -1,0 +1,11 @@
+[12-Jan-2015 02:40:53 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING in /home/hotelwis/public_html/sendemail.php on line 28
+[12-Jan-2015 02:46:11 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING in /home/hotelwis/public_html/sendemail.php on line 29
+[12-Jan-2015 02:50:47 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING in /home/hotelwis/public_html/sendemail.php on line 28
+[12-Jan-2015 02:51:45 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING in /home/hotelwis/public_html/sendemail.php on line 28
+[12-Jan-2015 02:52:58 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING in /home/hotelwis/public_html/sendemail.php on line 28
+[12-Jan-2015 02:53:05 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING in /home/hotelwis/public_html/sendemail.php on line 28
+[12-Jan-2015 02:53:12 CST6CDT] PHP Parse error:  syntax error, unexpected T_STRING in /home/hotelwis/public_html/sendemail.php on line 28
+[12-Jan-2015 02:54:15 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/hotelwis/public_html/sendemail.php on line 29
+[12-Jan-2015 03:30:48 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/hotelwis/public_html/sendemail.php on line 15
+[12-Jan-2015 04:04:31 CST6CDT] PHP Parse error:  syntax error, unexpected T_INCLUDE, expecting ',' or ';' in /home/hotelwis/public_html/sendemail.php on line 50
+[12-Jan-2015 04:06:02 CST6CDT] PHP Parse error:  syntax error, unexpected '?' in /home/hotelwis/public_html/sendemail.php on line 48
